@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body {
+    background-color:#fff2e6;
+    font-family: Verdana;
+    font-size: 100%;
+    margin-top:70px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:100px;
+}
+
+h1 {
+    color: black;
+    font-size: 200%;
+}
+
+h2 {
+    color: black;
+    font-size: 150%;
+}
+
+h3 {
+    color: black;
+    font-size: 100%;
+}
+
+p  {
+    color: black;
+    font-size: 100%;
+}
+
+section {
+    float:left;
+    width:350px;
+    padding:10px; 
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 5px;
+}
+ul.menu {
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+ul.menu li {
+	float: left;
+}
+
+ul.menu li a {
+	display: block;
+	padding: 16px;
+	background-color: #a0c1b9;
+}
+/* Large rounded green border */
+hr.new5 {
+  border: 10px solid green;
+  border-radius: 5px;
+</style>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+
+
+
+<body>
+
+
+
+<h1>
+<ul class="menu">
+	<li><a href="/index.html">[Home]</a></li>
+</ul>
+</h1>
+
+
+
+
+
+</body>
+</html>
